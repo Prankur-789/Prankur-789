@@ -34,9 +34,8 @@ I love building scalable web apps, debugging complex code, and creating structur
 ---
 
 ## ✨ Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://YOUR_PORTFOLIO_LINK)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prankur-verma-61a1b8273)    
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:prankurverma6@gmail.com)  
 
 ---
 
